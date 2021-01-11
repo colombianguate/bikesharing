@@ -1,0 +1,5 @@
+#ignoring large files
+
+citibike2_df.csv
+
+201908-citibike-tripdata.csv
